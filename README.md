@@ -11,7 +11,7 @@
 <h3 align="center">Connect with me:</h3>
 <p align="center">
     <a href="https://discordapp.com/users/759715979549868032">
-   <img alt="Discord" src="https://img.shields.io/badge/yungjaki%239999-Discord-%231c03fc'"></a>  
+   <img alt="Discord" src="https://img.shields.io/badge/yungjaki%232009-Discord-%231c03fc'"></a>  
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
